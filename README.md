@@ -23,19 +23,22 @@ External   | 10.1.20.0/24
 
 
 ### BIG-IP
+---- | ----
 Management IP | 10.1.1.8
 Internal IP   | 10.1.10.8/24
 External IP   | 10.1.20.8/24
 Username      | admin
 Password      | admin
 
-### Windows Jump Host	
+### Windows Jump Host
+---- | ----
 Management IP | 10.1.1.4
 External IP   | 10.1.20.250/24
 Username      | Administrator
 Password      | bdfbEWaE1
 
 ### Linux Webserver	
+---- | ----
 Management | 10.1.1.5
 Internal   | 10.1.10.100-103/24
 Services   | HTTP/HTTPS/SSH
